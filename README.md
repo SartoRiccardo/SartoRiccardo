@@ -1,5 +1,8 @@
 <img src="https://github.com/SartoRiccardo/SartoRiccardo/blob/master/banner.png?raw=true" alt=banner>
 
+<p align=center><b>Uni student with just enough free time.</b><br>Will take on some grandiose project every once in a while, coding related or not.</p>
+<br>
+
 <div align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -10,7 +13,6 @@
 </div>
 
 <div>
-  <p>Uni student with just enough free time. Will take on some grandiose project every once in a while, coding related or not.</p>
   <p>Things I like:</p>
   <ul>
     <li>🧵 Sewing</li>

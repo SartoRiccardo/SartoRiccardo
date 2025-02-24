@@ -25,7 +25,7 @@
 <br>
 
 <div class=badges align=center>
-    <a href=https://x.com/sartouhou><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/twitter-x.svg></a>
-    <a href=https://instagram.com/thesartorsss><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/instagram.svg></a>
-    <a href=https://www.youtube.com/user/MrCreepypasta666><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/youtube.svg></a>
+    <a href=https://x.com/sartouhou target=_blank><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/twitter-x.svg></a>
+    <a href=https://instagram.com/sartorick_ target=_blank><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/instagram.svg></a>
+    <a href=https://www.youtube.com/user/MrCreepypasta666 target=_blank><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/youtube.svg></a>
 </div>

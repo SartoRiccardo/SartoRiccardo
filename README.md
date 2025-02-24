@@ -25,7 +25,7 @@
 <br>
 
 <div class=badges align=center>
-    ![https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg](https://x.com/sartouhou)
-	![https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg](https://instagram.com/thesartorsss)
-	![https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg](https://www.youtube.com/user/MrCreepypasta666)
+    <a href=https://x.com/sartouhou><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/twitter-x.svg></a>
+    <a href=https://instagram.com/thesartorsss><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/instagram.svg></a>
+    <a href=https://www.youtube.com/user/MrCreepypasta666><img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/dark/colored/youtube.svg></a>
 </div>

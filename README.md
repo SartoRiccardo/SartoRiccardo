@@ -1,4 +1,4 @@
-<img src="https://github.com/SartoRiccardo/SartoRiccardo/blob/master/banner.png?raw=true" alt=banner>
+![Profile Banner][banner.webp]
 
 <p align=center><b>CS student with just enough free time.</b><br>Will take on some grandiose project every once in a while, coding related or not.</p>
 <br>
